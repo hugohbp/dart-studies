@@ -1,2 +1,2 @@
 # dart-studies
-Learning and increasing basic concepts about Dart language.
+Learning and improving concepts about Dart language.
